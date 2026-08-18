@@ -1,0 +1,13 @@
+{
+  "name": "companyconnect-engineering-hub",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Static GitHub Pages technical proof and trust hub for CompanyConnect business-systems engineering.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "verify": "node scripts/verify-site.mjs"
+  }
+}
