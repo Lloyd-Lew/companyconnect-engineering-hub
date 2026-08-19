@@ -5,7 +5,7 @@ This repository publishes the static GitHub Pages hub for CompanyConnect’s pub
 ## Local verification
 
 ```bash
-npm install --package-lock=false --ignore-scripts
+npm ci --ignore-scripts
 npm run verify
 ```
 
