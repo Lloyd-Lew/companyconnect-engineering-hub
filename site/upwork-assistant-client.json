@@ -1,0 +1,17 @@
+{
+  "client_id": "https://lloyd-lew.github.io/companyconnect-engineering-hub/upwork-assistant-client.json",
+  "client_name": "CompanyConnect Private Upwork Assistant",
+  "client_uri": "https://companyconnect.tech/",
+  "redirect_uris": [
+    "http://127.0.0.1:8776/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "application_type": "native"
+}
